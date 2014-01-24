@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<config>
+	<modules>
+		<AnattaDesign_MultipleHandles>
+			<version>1.0</version>
+		</AnattaDesign_MultipleHandles>
+	</modules>
+	<global>
+		<models>
+			<anattadesign_multiplehandles>
+				<class>AnattaDesign_AwesomeCheckout_Core_Model</class>
+			</anattadesign_multiplehandles>
+			<core>
+				<rewrite>
+					<layout_update>AnattaDesign_MultipleHandles_Model_Core_Layout_Update</layout_update>
+				</rewrite>
+			</core>
+		</models>
+	</global>
+</config>

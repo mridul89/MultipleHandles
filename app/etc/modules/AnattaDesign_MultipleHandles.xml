@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+
+<config>
+	<modules>
+		<AnattaDesign_MultipleHandles>
+			<active>true</active>
+			<codePool>community</codePool>
+		</AnattaDesign_MultipleHandles>
+	</modules>
+</config>
