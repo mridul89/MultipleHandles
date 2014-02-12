@@ -19,3 +19,5 @@ After Installation, you can use an `ifhandle` attribute in your layout files. Fo
             ...
         </reference>
     </catalog_product_view>
+
+You can also use more than 1 layout handles in the attribute value, separate each one of them with spaces
